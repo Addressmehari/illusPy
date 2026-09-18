@@ -1,0 +1,32 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Trained Models & Weights
+models/
+*.pth
+
+# Generated Datasets (Recreated via setup_dataset.py)
+dataset/
+dataset/*
+dataset/cats/
+dataset/non_cats/
+dataset/squares/
+dataset/non_squares/
+dataset/circles/
+dataset/non_circles/
+
+# Rendered Visualizations & GIFs
+visualizations/
+*.gif
+*.png
+
+# Virtual Environments & IDE
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
