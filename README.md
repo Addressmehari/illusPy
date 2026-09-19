@@ -26,7 +26,7 @@ paper/
 
 ---
 
-## 🚀 Quickstart for New Clones
+## 🚀 Do this after cloned
 
 ### 1. Install Dependencies
 ```bash
